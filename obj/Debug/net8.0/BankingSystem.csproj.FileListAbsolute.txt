@@ -1,0 +1,14 @@
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+F:\SD\EraaSoft\Tasks\s4\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
